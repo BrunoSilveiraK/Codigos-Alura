@@ -4,5 +4,5 @@
 > Status: Iniciando agora...
 
 ```
-npm install chapGpt
+node app.js
 ```
