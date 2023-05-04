@@ -3,7 +3,7 @@
 
 > Status: Iniciando agora...
 
-Para rodar o projeto, por favor digite
+Para rodar o projeto, por favor digite:
 
 ```
 node app.js
