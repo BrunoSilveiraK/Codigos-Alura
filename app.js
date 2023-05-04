@@ -1,1 +1,2 @@
-console.log("Criando o sistema de gerenciamento da aplicação)
+console.log("Criando o sistema de gerenciamento de jogos")
+console.log("Aplicação se conectando ao banco de dados")           
