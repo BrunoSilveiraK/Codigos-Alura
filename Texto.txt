@@ -1,2 +1,3 @@
 >Este arquivo serve para o teste de volta de versão de algum arquivo.
  arquivo de teste
+Terceira linha
