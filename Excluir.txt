@@ -1,2 +1,1 @@
 >Este arquivo será escluído logo mais
-Está linha está sendo criada para ser excluida após realizar a restauração do arquivo com o comando git restore ;)
